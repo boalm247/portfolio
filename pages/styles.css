@@ -9,14 +9,14 @@ body {
     text-align: center;
             }
 
-.blue {
+.content{
     background-color: rgba(136, 207, 245, 0.6);
     padding: 2%;
     height: auto;
 
 }
 
-.name {
+.name{
     /* display: block; */
     border: 2px solid black;
     /* color: rgb(255, 255, 255);
@@ -27,20 +27,19 @@ body {
     
 }
 
-.sections {
+.sections{
     display: inline;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 20px;
 
 }
 
- .links {
+ .links{
     display: inline;
     margin: 30px;
     padding: 10px;
 }
 
-.links:hover {
+.links:hover{
     color: white;
     background-color: rgb(0, 0, 0);
 }
@@ -52,13 +51,13 @@ a:link {
     
     
 }
-a:visited {
+a:visited{
     text-decoration: none;
     color: black;
     
 }
 
-a:visited:hover {
+a:visited:hover{
     color: white;
     background-color: rgb(0, 0, 0);
     text-decoration: none;
